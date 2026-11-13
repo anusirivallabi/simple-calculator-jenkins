@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.8.v20250724-1412\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Student-A\AppData\Local\Temp\surefire9371008723592598309\surefirebooter-20261111160604349_3.jar C:\Users\Student-A\AppData\Local\Temp\surefire9371008723592598309 2026-11-11T16-06-03_680-jvmRun1 surefire-20261111160604349_1tmp surefire_0-20261111160604349_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Student-A\AppData\Local\Temp\surefire13287042543123189273\surefirebooter-20261113123044451_3.jar C:\Users\Student-A\AppData\Local\Temp\surefire13287042543123189273 2026-11-13T12-30-44_357-jvmRun1 surefire-20261113123044451_1tmp surefire_0-20261113123044451_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Student-A\eclipse-workspace\simple-calculator-jenkins\target\test-classes;C:\Users\Student-A\eclipse-workspace\simple-calculator-jenkins\target\classes;C:\Users\Student-A\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Student-A\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Student-A\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Student-A\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Student-A\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Student-A\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Student-A\AppData\Local\Temp\surefire9371008723592598309\surefirebooter-20261111160604349_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Student-A\AppData\Local\Temp\surefire13287042543123189273\surefirebooter-20261113123044451_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.8+9-LTS"/>
@@ -61,5 +61,5 @@
     <property name="java.class.version" value="65.0"/>
   </properties>
   <testcase name="testAdd" classname="comcalculator_jenkins.CalculatorTest" time="0.017"/>
-  <testcase name="testSubtract" classname="comcalculator_jenkins.CalculatorTest" time="0.0"/>
+  <testcase name="testSubtract" classname="comcalculator_jenkins.CalculatorTest" time="0.001"/>
 </testsuite>
